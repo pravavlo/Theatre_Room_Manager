@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class Cinema {
     static int rows;
-    static int seats;// acts as columns
+    static int seats;// acts as columns.
     static char[][] arr;
     static Scanner scanner = new Scanner(System.in);
     static int rowNum;// this is for selection number of rows or certain rows in totalrows
